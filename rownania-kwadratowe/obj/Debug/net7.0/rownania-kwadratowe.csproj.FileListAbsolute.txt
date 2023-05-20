@@ -1,0 +1,15 @@
+C:\Users\Kacper\OneDrive\Studia\Inżynieria Oprogramowania\Zadanie-5\rownania-kwadratowe\bin\Debug\net7.0\rownania-kwadratowe.exe
+C:\Users\Kacper\OneDrive\Studia\Inżynieria Oprogramowania\Zadanie-5\rownania-kwadratowe\bin\Debug\net7.0\rownania-kwadratowe.deps.json
+C:\Users\Kacper\OneDrive\Studia\Inżynieria Oprogramowania\Zadanie-5\rownania-kwadratowe\bin\Debug\net7.0\rownania-kwadratowe.runtimeconfig.json
+C:\Users\Kacper\OneDrive\Studia\Inżynieria Oprogramowania\Zadanie-5\rownania-kwadratowe\bin\Debug\net7.0\rownania-kwadratowe.dll
+C:\Users\Kacper\OneDrive\Studia\Inżynieria Oprogramowania\Zadanie-5\rownania-kwadratowe\bin\Debug\net7.0\rownania-kwadratowe.pdb
+C:\Users\Kacper\OneDrive\Studia\Inżynieria Oprogramowania\Zadanie-5\rownania-kwadratowe\obj\Debug\net7.0\rownania-kwadratowe.csproj.AssemblyReference.cache
+C:\Users\Kacper\OneDrive\Studia\Inżynieria Oprogramowania\Zadanie-5\rownania-kwadratowe\obj\Debug\net7.0\rownania-kwadratowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\OneDrive\Studia\Inżynieria Oprogramowania\Zadanie-5\rownania-kwadratowe\obj\Debug\net7.0\rownania-kwadratowe.AssemblyInfoInputs.cache
+C:\Users\Kacper\OneDrive\Studia\Inżynieria Oprogramowania\Zadanie-5\rownania-kwadratowe\obj\Debug\net7.0\rownania-kwadratowe.AssemblyInfo.cs
+C:\Users\Kacper\OneDrive\Studia\Inżynieria Oprogramowania\Zadanie-5\rownania-kwadratowe\obj\Debug\net7.0\rownania-kwadratowe.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\OneDrive\Studia\Inżynieria Oprogramowania\Zadanie-5\rownania-kwadratowe\obj\Debug\net7.0\rownania-kwadratowe.dll
+C:\Users\Kacper\OneDrive\Studia\Inżynieria Oprogramowania\Zadanie-5\rownania-kwadratowe\obj\Debug\net7.0\refint\rownania-kwadratowe.dll
+C:\Users\Kacper\OneDrive\Studia\Inżynieria Oprogramowania\Zadanie-5\rownania-kwadratowe\obj\Debug\net7.0\rownania-kwadratowe.pdb
+C:\Users\Kacper\OneDrive\Studia\Inżynieria Oprogramowania\Zadanie-5\rownania-kwadratowe\obj\Debug\net7.0\rownania-kwadratowe.genruntimeconfig.cache
+C:\Users\Kacper\OneDrive\Studia\Inżynieria Oprogramowania\Zadanie-5\rownania-kwadratowe\obj\Debug\net7.0\ref\rownania-kwadratowe.dll
